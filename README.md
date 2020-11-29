@@ -1,4 +1,4 @@
-![](./vangogh.jpeg)
+![](./pc2.jpg)
 
 <!--
 **cemreefe/cemreefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
