@@ -1,4 +1,10 @@
-![](./pc2.jpg)
+### Hi there 👋
+
+It's cemre!
+
+- 🍪 I'm interested in AI and languages
+- 🔭 I’m currently working on GANs in BU Catlabs
+- 🦉 I’m also quite experienced in web development thanks to my fun projects
 
 <!--
 **cemreefe/cemreefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
