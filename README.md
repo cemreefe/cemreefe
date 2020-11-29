@@ -1,6 +1,4 @@
-### Hi there 👋
-
-It's cemre!
+### Hi there its Cemre!✨
 
 - 🍪 Interested in AI and languages
 - 🔭 Currently working on GANs in BU Catlabs
