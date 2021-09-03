@@ -1,7 +1,8 @@
 ### Hi there its Cemre!✨
 
 - 🍪 Interested in AI and languages
-- 🔭 Currently working on GANs in BOUN Catlab
+- 🔭 Currently researching GANs in BOUN Catlab
+- 🔮 Working at Udemy as part of the Communications team
 - 🦉 Also quite experienced in web development thanks to my fun projects
 
 <!--
