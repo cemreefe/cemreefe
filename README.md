@@ -1,10 +1,10 @@
 ### Hi there its Cemre!✨
 
 - 🌐 Somewhat experienced in web development thanks to my fun projects. 
-- 🍪 Interested in AI and languages
-- 🔭 Former undergrad researcher in BOUN Catlab. Published [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
-- 🔮 Ex-Udemy (Communications team, great people!)
 - 🌱 Software Engineer at Amazon. Working as part of the API Gateway team, mostly dealing with infrastructure and reliability.
+- 🔭 Former undergrad researcher in [Uni Bogazici Catlab](https://catlab-team.github.io/). Published [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
+- 🔮 Ex-Udemy (Communications team, great people!)
+- 🍪 Interested in AI and languages
 
 <!--
 **cemreefe/cemreefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
