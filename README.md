@@ -1,6 +1,6 @@
 ### Hi there its Cemre!✨
 
-- 🍄 Hobby dev!
+- 🍄 I <3 hobby dev!
 - 🌱 Software Engineer at Amazon. API Gateway scaling point of contact, dealing with infrastructure and reliability.
 - 🔭 Former undergrad researcher in [Uni Bogazici Catlab](https://catlab-team.github.io/). Published [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
 - 🔮 Ex-Udemy
