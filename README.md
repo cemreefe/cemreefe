@@ -3,7 +3,7 @@
 - 🍄 I <3 hobby dev!
 - 🌱 Software Engineer at Rippling
 - 🔮 ex-Amazon, ex-Udemy
-- 🔭 Former undergrad researcher in [Uni Bogazici Catlab](https://catlab-team.github.io/). Author of [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
+- 🔭 Former undergrad researcher in [Uni Bogazici Catlab](https://catlab-team.github.io/). Authored [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
 - 🍪 Interested in AI and languages
 
 <!--
