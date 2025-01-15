@@ -1,22 +1,10 @@
 ### Hi there its Cemre!✨
 
 - 🍄 I <3 hobby dev!
-- 🌱 Software Engineer at Rippling
-- 🔮 ex-Amazon, ex-Udemy
+- 🌱 Software Engineer at Rippling, ex-Amazon, ex-Udemy
+- 🔮 Interested in languages, decentralized social web, digital gardening
 - 🔭 Former undergrad researcher in [Uni Bogazici Catlab](https://catlab-team.github.io/). Authored [a paper](https://arxiv.org/abs/2202.06240) on debiasing GANs in ECCV 2022.
-- 🍪 Interested in AI and languages
 
-<!--
-**cemreefe/cemreefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=cemreefe&show_icons=true)](https://github.com/cemreefe) 
+
