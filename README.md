@@ -7,4 +7,4 @@
 
 | **Github Stats**                                                                                                                                              | **Languages**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=cemreefe&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemreefe&hide=html,css,jupyter%20notebook&layout=compact) |
+| ![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cemreefe&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemreefe&layout=compact&langs_count=8&theme=ayu-mirage) |
